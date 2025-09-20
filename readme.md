@@ -20,5 +20,6 @@ The **HR & Workforce Analytics Dashboard** focuses on employee and workforce dat
 It provides insights into workforce distribution, hiring trends, attrition, and employee engagement.  
 The dashboard helps HR teams monitor workforce metrics, improve retention strategies, and align workforce planning with business goals.
 
-![HR & Workforce Analytics Dashboard](github/IMG/H1.png)
+![HR & Workforce Analytics Dashboard](IMG/H1.png)
+
 
